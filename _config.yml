@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Susan Wang
-email: susanw1997@gmail.com
+title: Susan W
+email: s*****.com
 description:
   Software Engineer in the SF Bay Area. 
 baseurl: "/personal-site" # the subpath of your site, e.g. /blog
